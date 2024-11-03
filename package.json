@@ -1,0 +1,24 @@
+{
+  "name": "git-recall",
+  "version": "1.2.4",
+  "description": "Simple and convenient Git tool to easily recall what you've done",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nholuongut/git-recall.git"
+  },
+  "bin": {
+    "git-recall": "./git-recall"
+  },
+  "keywords": [
+    "git",
+    "log",
+    "cli"
+  ],
+  "author": "Nho Luong",
+  "license": "MIT",
+  "homepage": "https://github.com/nholuongut/git-recall"
+}
